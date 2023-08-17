@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+   
+}
+<style>
+            .bangundatar {
+                color:beige;
+            }
+            #triangle {
+                color: white;
+            }
+            .divWithBoxSizing {
+                background-color:rgb(201, 143, 153);
+
+            }
+            .divWithoutBoxSizing {
+            background-color:rgb(206, 141, 152);
+            }
+        </style>
